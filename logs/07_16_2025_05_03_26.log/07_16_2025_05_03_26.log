@@ -1,0 +1,12 @@
+[ 2025-07-16 05:03:31,950 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-07-16 05:03:31,950 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-07-16 05:03:31,954 ] 107 dagshub - INFO - Accessing as Abhishek-coder9998
+[ 2025-07-16 05:03:31,956 ] 107 dagshub - INFO - Accessing as Abhishek-coder9998
+[ 2025-07-16 05:03:33,584 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Abhishek-coder9998/networksecurity "HTTP/1.1 200 OK"
+[ 2025-07-16 05:03:33,954 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Abhishek-coder9998/networksecurity "HTTP/1.1 200 OK"
+[ 2025-07-16 05:03:34,572 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-07-16 05:03:34,585 ] 107 dagshub - INFO - Initialized MLflow to track repo "Abhishek-coder9998/networksecurity"
+[ 2025-07-16 05:03:34,586 ] 107 dagshub - INFO - Repository Abhishek-coder9998/networksecurity initialized!
+[ 2025-07-16 05:03:34,669 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-07-16 05:03:34,671 ] 107 dagshub - INFO - Initialized MLflow to track repo "Abhishek-coder9998/networksecurity"
+[ 2025-07-16 05:03:34,672 ] 107 dagshub - INFO - Repository Abhishek-coder9998/networksecurity initialized!

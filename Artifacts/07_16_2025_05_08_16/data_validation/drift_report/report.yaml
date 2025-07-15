@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.9998299425911609
+DNSRecord:
+  drift_status: false
+  p_value: 0.37182939454122055
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9999996521355587
+Favicon:
+  drift_status: false
+  p_value: 0.98068847421368
+Google_Index:
+  drift_status: false
+  p_value: 1.0
+HTTPS_token:
+  drift_status: false
+  p_value: 0.9491766928826618
+Iframe:
+  drift_status: false
+  p_value: 0.999230651758703
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9999971010402764
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.8427303427983684
+Page_Rank:
+  drift_status: false
+  p_value: 0.8622798411449777
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.9999998099738984
+Redirect:
+  drift_status: false
+  p_value: 0.9999999883158472
+Request_URL:
+  drift_status: false
+  p_value: 0.9860900857001905
+Result:
+  drift_status: false
+  p_value: 0.6289523183481528
+RightClick:
+  drift_status: false
+  p_value: 0.9999953843756324
+SFH:
+  drift_status: false
+  p_value: 0.9860900857001905
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.44566877193471394
+Shortining_Service:
+  drift_status: false
+  p_value: 0.48171578755143557
+Statistical_report:
+  drift_status: false
+  p_value: 1.0
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.928294204054473
+URL_Length:
+  drift_status: false
+  p_value: 0.8007673044155985
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.6610275421754552
+age_of_domain:
+  drift_status: false
+  p_value: 0.8427303427983684
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.9413205455808915
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.9999999947754254
+having_IP_Address:
+  drift_status: false
+  p_value: 0.23503837643819253
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.8979221700912247
+on_mouseover:
+  drift_status: false
+  p_value: 0.9860900857001905
+popUpWidnow:
+  drift_status: false
+  p_value: 0.995166717604938
+port:
+  drift_status: false
+  p_value: 0.9999999750532348
+web_traffic:
+  drift_status: false
+  p_value: 0.8291361447554398

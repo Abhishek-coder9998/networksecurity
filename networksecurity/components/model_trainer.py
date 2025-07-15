@@ -46,12 +46,13 @@ class ModelTrainer:
             raise NetworkSecurityException(e,sys)
         
     def track_mlflow(self,best_model,classificationmetric):
-        mlflow.set_registry_uri("https://dagshub.com/Abhishek-coder9998/networksecurity.mlflow")
+        mlflow.set_tracking_uri("https://dagshub.com/Abhishek-coder9998/networksecurity.mlflow")
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
         with mlflow.start_run():
             f1_score=classificationmetric.f1_score
             precision_score=classificationmetric.precision_score
             recall_score=classificationmetric.recall_score
+
 
             
 
@@ -68,7 +69,9 @@ class ModelTrainer:
                 # https://mlflow.org/docs/latest/model-registry.html#api-workflow
                 mlflow.sklearn.log_model(best_model, "model", registered_model_name=best_model)
             else:
-                mlflow.sklearn.log_model(best_model, "model")
+                mlflow.sklearn.log_model(best_model, artifact_path="model", registered_model_name=None)
+  
+
 
 
         
